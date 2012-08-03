@@ -1,0 +1,5 @@
+title: Boulder BugMash
+tagline: Our next BugMash is on Saturday, August 25 11am-5pm @ Gnip's offices in Boulder. 
+excludes: ["CNAME"]
+markdown: maruku
+pygments: true
