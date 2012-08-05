@@ -1,6 +1,7 @@
 
 title: Boulder BugMash
-tagline: Our Next BugMash:<br> Saturday, August 25 11am-5pm @ Gnip's offices.</p> RSVP at <a href="http://gathers.us/events/boulder-rails-bugmash">gathers.us</a>.
+description: Contribute to Open Source Software by getting together in a group and mashing bugs.
+upcoming: Our Next BugMash:<br> Saturday, August 25 11am-5pm @ Gnip's offices.</p> RSVP at <a href="http://gathers.us/events/boulder-rails-bugmash">gathers.us</a>.
 excludes: ["CNAME"]
 markdown: maruku
 pygments: true
